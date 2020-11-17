@@ -13,6 +13,7 @@ Package.onUse(function (api) {
     'coffeescript@2.4.1',
     'ecmascript',
     'mongo',
+    'reactive-var',
     'minimongo',
     'underscore'
   ], 'server');
