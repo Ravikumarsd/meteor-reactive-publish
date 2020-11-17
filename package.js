@@ -14,7 +14,8 @@ Package.onUse(function (api) {
     'ecmascript',
     'mongo',
     'minimongo',
-    'underscore'
+    'underscore',
+    'reactive-var',
   ], 'server');
 
   // 3rd party dependencies.
